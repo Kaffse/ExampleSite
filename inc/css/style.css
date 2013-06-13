@@ -1,0 +1,41 @@
+html {
+    background:#9DC9FF;
+}
+
+body {
+    text-align:center;
+}
+
+#font {
+    font-family: 'Fauna One', serif;
+}
+
+#disclaimer {
+    font-size:50%;
+}
+
+#cats {
+    padding-top:5%;
+    padding-bottom:5%;
+}
+
+#button-bottom {
+    margin-bottom:10%;
+}
+
+.pure-u-1-3 {
+    padding-left:2%;
+    padding-right:2%;
+}
+
+.header-box{
+    margin-top:-25px;
+    background: #9a91ff; /* Old browsers */
+    background: -moz-linear-gradient(top,  #9a91ff 0%, #9dc9ff 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#9a91ff), color-stop(100%,#9dc9ff)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #9a91ff 0%,#9dc9ff 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #9a91ff 0%,#9dc9ff 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #9a91ff 0%,#9dc9ff 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #9a91ff 0%,#9dc9ff 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9a91ff', endColorstr='#9dc9ff',GradientType=0 ); /* IE6-9 */
+}
